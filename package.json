@@ -1,0 +1,15 @@
+{
+  "name": "dataart",
+  "version": "1.0.0",
+  "description": "This project  shows the timeline of evolution of mobile phones. so far i have completed the phase 1 that consists of only html. I used tags like article, figure, main, header tags etc.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "year": "1983",
+        "title": "Motorola DynaTAC 8000X",
+        "description": "First commercially available handheld mobile phone.",
+        "imageURL": "images/motorola-dynatac.jpg",
+        "category": "Classic"
+    },
+    {
+        "year": "1996",
+        "title": "Motorola StarTAC",
+        "description": "First clamshell flip phone.",
+        "imageURL": "images/moto startac.gif",
+        "category": "Flip Phone"
+    },
+    {
+        "year": "2000",
+        "title": "Nokia 3310",
+        "description": "Legendary durable phone with Snake game.",
+        "imageURL": "images/nokia.jpg",
+        "category": "Classic"
+    },
+    {
+        "year": "2007",
+        "title": "iPhone 1st Gen",
+        "description": "Revolutionary touchscreen smartphone.",
+        "imageURL": "images/iphone2g.png",
+        "category": "Smartphone"
+    },
+    {
+        "year": "2008",
+        "title": "HTC Dream",
+        "description": "First Android smartphone.",
+        "imageURL": "images/HTC Dream.jpg",
+        "category": "Smartphone"
+    },
+    {
+        "year": "2010",
+        "title": "Samsung Galaxy S",
+        "description": "Brought Android to the masses with AMOLED display.",
+        "imageURL": "images/samsung-galaxy-s-2010.jpg",
+        "category": "Smartphone"
+    },
+    {
+        "year": "2014",
+        "title": "iPhone 6",
+        "description": "Major design overhaul with a bigger screen.",
+        "imageURL": "images/iphone 6.png",
+        "category": "Smartphone"
+    },
+    {
+        "year": "2020",
+        "title": "Samsung Galaxy Z Fold",
+        "description": "Introduced foldable smartphones.",
+        "imageURL": "images/samsung_galaxy_z-fold.jpg",
+        "category": "Foldable"
+    }
+]
